@@ -1,0 +1,10 @@
+p.information {
+  display: none;
+  font-size: 13px;
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+div.select:hover p.information {
+  display: inline-flex;
+}
